@@ -10,23 +10,25 @@
 
 ## 样张展示
 
-以下 8 张样张由 Panel 160 基于不同源照片独立单轮生成，使用简短英文文案。已归整为横版 1536×864、左右各 50%，及竖版 1152×1536、上下各 50%，并完成元数据清理。保留单次模型结果供观察，不代表全部通过风格验收。
+以下 8 张 AI 样张使用 8 张新选的源照片，通过 Panel 160 原生生成脚本分别生成，配以简短英文文案。展示的是本轮原始输出，未缩放或重新拼接；不是此前样张的改尺寸版本。
 
-已观察到的偏差：部分主体与场景仍偏大，保留的环境细节偏多；个别源图颜色被弱化。样张保留单轮结果，未追加重绘。
+实际检查：4 张横版左右等分；4 张竖版的上方照片约占 42.3%–48.8%，未达到严格上下 50:50。部分主体与环境细节仍偏多，因此本组用于展示实际效果，不代表全部通过风格验收。
 
-16:9 · 50:50
+### 横版 4 张 · 1672×941（约 16:9）· 左照片 / 右设计
 
-| sample-05 | sample-06 |
+| 鸟群 | 鹿 |
 |---|---|
-| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
-| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+| ![鸟群](assets/examples/sample-05-native.png) | ![鹿](assets/examples/sample-06-native.png) |
+| 独木舟 | 海湾 |
+| ![独木舟](assets/examples/sample-07-native.png) | ![海湾](assets/examples/sample-08-native.png) |
 
-3:4 · 50:50
+### 竖版 4 张 · 1086×1448（3:4）· 上照片 / 下设计
 
-| sample-09 | sample-10 |
+| 自行车 | 水果 |
 |---|---|
-| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
-| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+| ![自行车](assets/examples/sample-09-native.png) | ![水果](assets/examples/sample-10-native.png) |
+| 柠檬 | 罗马斗兽场 |
+| ![柠檬](assets/examples/sample-11-native.png) | ![罗马斗兽场](assets/examples/sample-12-native.png) |
 
 ## 适用场景与解决的问题
 
@@ -121,22 +123,3 @@ XXD 是小小东品牌名的缩写，本项目由小小东创建并维护： [@x
 - 本协议只授予其中明确写出的著作权许可和有限的专利许可，不授予商标、品牌名称或其他未明确授予的权利，也不能把你的许可再转授给他人。
 - 如果收到书面违约通知，须在 32 天内纠正并采取实际补救措施，否则许可会立即终止；就专利侵权提出书面主张也会终止专利许可。
 - 内容按“现状”提供，在法律允许的范围内不作任何担保，使用风险和可能的损失由使用者自行承担。
-
-
-## Re-selected inputs / 重新选图
-
-Input image for this panel: `assets/inputs/input-02`
-
-![Re-selected input](assets/inputs/input-02.jpg)
-
-
-## Rebuilt samples / 重制样张
-
-![left_right-01](PROMPT/left_right-01.png)
-![left_right-02](PROMPT/left_right-02.png)
-![left_right-03](PROMPT/left_right-03.png)
-![left_right-04](PROMPT/left_right-04.png)
-![top_bottom-01](PROMPT/top_bottom-01.png)
-![top_bottom-02](PROMPT/top_bottom-02.png)
-![top_bottom-03](PROMPT/top_bottom-03.png)
-![top_bottom-04](PROMPT/top_bottom-04.png)

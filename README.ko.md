@@ -10,23 +10,25 @@
 
 ## 샘플 작품
 
-서로 다른 원본 사진으로 Panel 160에서 각각 한 번 생성한 8개 샘플입니다. 짧은 영문 문구를 사용했으며 가로 1536×864 좌우 균등, 세로 1152×1536 상하 균등으로 정리하고 메타데이터 정리를 검증했습니다. 실제 모델 결과이며 모든 스타일 조건을 통과했다는 뜻은 아닙니다.
+새로 선택한 원본 사진 8장을 Panel 160의 기본 생성 스크립트로 각각 처리한 AI 샘플이며, 짧은 영문 문구를 사용했습니다. 이번 생성 결과를 크기 변경이나 재합성 없이 그대로 표시합니다. 이전 샘플의 크기만 바꾼 이미지가 아닙니다.
 
-관찰된 편차: 일부 피사체와 장면이 크고 환경 세부가 많이 남아 있으며, 원본 색상이 약해진 예도 있습니다. 추가 생성 없이 첫 결과를 보존했습니다.
+검사 결과: 가로 4장은 좌우 균등 분할입니다. 세로 4장은 위쪽 사진이 약 42.3%–48.8%를 차지해 엄격한 상하 50:50 조건을 충족하지 못했습니다. 일부 피사체와 배경 세부도 많으므로, 모든 스타일 조건을 통과한 예시가 아니라 실제 출력 결과로 공개합니다.
 
-16:9 · 50:50
+### 가로 4장 · 1672×941 (약 16:9) · 왼쪽 사진 / 오른쪽 디자인
 
-| sample-05 | sample-06 |
+| 새 | 사슴 |
 |---|---|
-| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
-| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+| ![새](assets/examples/sample-05-native.png) | ![사슴](assets/examples/sample-06-native.png) |
+| 카누 | 만 |
+| ![카누](assets/examples/sample-07-native.png) | ![만](assets/examples/sample-08-native.png) |
 
-3:4 · 50:50
+### 세로 4장 · 1086×1448 (3:4) · 위 사진 / 아래 디자인
 
-| sample-09 | sample-10 |
+| 자전거 | 과일 |
 |---|---|
-| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
-| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+| ![자전거](assets/examples/sample-09-native.png) | ![과일](assets/examples/sample-10-native.png) |
+| 레몬 | 콜로세움 |
+| ![레몬](assets/examples/sample-11-native.png) | ![콜로세움](assets/examples/sample-12-native.png) |
 
 ## 잘 맞는 상황과 해결하는 문제
 

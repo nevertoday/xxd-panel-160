@@ -10,23 +10,25 @@
 
 ## サンプル展示
 
-異なる元写真から Panel 160 で各1回生成した8点です。短い英文を使用し、横1536×864・左右均等、縦1152×1536・上下均等に整え、メタデータ清掃を検証しました。実際のモデル出力を残しており、全要件への適合を保証するものではありません。
+新たに選んだ8枚の元写真を、Panel 160の標準生成スクリプトで個別に処理したAIサンプルです。短い英文を使用しています。今回は生成時の画像をそのまま掲載し、拡縮や再合成はしていません。以前のサンプルのサイズ変更版ではありません。
 
-確認した偏差：被写体や場面が大きく、環境の細部が残りすぎる例や、元写真の色が弱まる例があります。追加生成せず、初回結果を残しています。
+確認結果：横長4点は左右均等です。縦長4点は上の写真が約42.3%–48.8%を占め、厳密な上下50:50には達していません。被写体や背景の細部が多すぎる例もあり、全スタイル要件の合格例ではなく実際の出力として掲載しています。
 
-16:9 · 50:50
+### 横長4点 · 1672×941（約16:9）· 左に写真 / 右にデザイン
 
-| sample-05 | sample-06 |
+| 鳥 | 鹿 |
 |---|---|
-| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
-| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+| ![鳥](assets/examples/sample-05-native.png) | ![鹿](assets/examples/sample-06-native.png) |
+| カヌー | 湾 |
+| ![カヌー](assets/examples/sample-07-native.png) | ![湾](assets/examples/sample-08-native.png) |
 
-3:4 · 50:50
+### 縦長4点 · 1086×1448（3:4）· 上に写真 / 下にデザイン
 
-| sample-09 | sample-10 |
+| 自転車 | 果物 |
 |---|---|
-| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
-| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+| ![自転車](assets/examples/sample-09-native.png) | ![果物](assets/examples/sample-10-native.png) |
+| レモン | コロッセオ |
+| ![レモン](assets/examples/sample-11-native.png) | ![コロッセオ](assets/examples/sample-12-native.png) |
 
 ## 向いている場面と解決する課題
 
