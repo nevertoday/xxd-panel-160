@@ -10,17 +10,17 @@
 
 ## 样张展示
 
-本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
+本项目已发布 8 张实际样片，包含横版与竖版，图片文件位于 `assets/examples/`。
 
-| sample-05-native | sample-06-native | sample-07-native | sample-08-native |
+| sample-05-native | sample-06-native | sample-09-native | sample-10-native |
 | --- | --- | --- | --- |
 | ![sample-05-native](assets/examples/sample-05-native.png) | ![sample-05](assets/examples/sample-05.png) |
 | sample-06-native | sample-06 |
 | ![sample-06-native](assets/examples/sample-06-native.png) | ![sample-06](assets/examples/sample-06.png) |
-| sample-07-native | sample-07 |
-| ![sample-07-native](assets/examples/sample-07-native.png) | ![sample-07](assets/examples/sample-07.png) |
-| sample-08-native | sample-08 |
-| ![sample-08-native](assets/examples/sample-08-native.png) | ![sample-08](assets/examples/sample-08.png) |
+| sample-09-native | sample-09 |
+| ![sample-09-native](assets/examples/sample-09-native.png) | ![sample-09](assets/examples/sample-09.png) |
+| sample-10-native | sample-10 |
+| ![sample-10-native](assets/examples/sample-10-native.png) | ![sample-10](assets/examples/sample-10.png) |
 
 ## 适用场景与解决的问题
 
