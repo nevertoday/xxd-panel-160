@@ -12,8 +12,8 @@
 
 本项目已发布 8 张实际样片，包含横版与竖版，图片文件位于 `assets/examples/`。
 
-| sample-05-native | sample-06-native | sample-09-native | sample-10-native |
-| --- | --- | --- | --- |
+| sample-05-native | sample-05 |
+| --- | --- |
 | ![sample-05-native](assets/examples/sample-05-native.png) | ![sample-05](assets/examples/sample-05.png) |
 | sample-06-native | sample-06 |
 | ![sample-06-native](assets/examples/sample-06-native.png) | ![sample-06](assets/examples/sample-06.png) |
