@@ -10,25 +10,17 @@
 
 ## عرض النماذج
 
-هذه ثمانية نماذج مولّدة بالذكاء الاصطناعي من ثماني صور مصدر مختارة حديثاً، عولجت كل منها ببرنامج التوليد الأصلي لـ Panel 160 مع نص إنجليزي قصير. نعرض مخرجات هذه الجولة كما هي، دون تغيير الحجم أو إعادة التركيب؛ وليست نسخاً مُعاد تحجيمها من النماذج السابقة.
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-نتائج الفحص: النماذج الأفقية الأربعة مقسومة بالتساوي بين اليسار واليمين. في النماذج الرأسية الأربعة، تشغل الصورة العلوية نحو 42.3%–48.8%، ولذلك لا تحقق شرط 50:50 الدقيق. بعض العناصر وتفاصيل البيئة ما زالت زائدة؛ هذا عرض للنتائج الفعلية وليس تأكيداً لاجتياز جميع متطلبات الأسلوب.
-
-### 4 نماذج أفقية · 1672×941 (نحو 16:9) · الصورة يساراً / التصميم يميناً
-
-| طيور | غزال |
-|---|---|
-| ![طيور](assets/examples/sample-05-native.png) | ![غزال](assets/examples/sample-06-native.png) |
-| زورق | خليج |
-| ![زورق](assets/examples/sample-07-native.png) | ![خليج](assets/examples/sample-08-native.png) |
-
-### 4 نماذج رأسية · 1086×1448 (3:4) · الصورة أعلى / التصميم أسفل
-
-| دراجة | فاكهة |
-|---|---|
-| ![دراجة](assets/examples/sample-09-native.png) | ![فاكهة](assets/examples/sample-10-native.png) |
-| ليمون | الكولوسيوم |
-| ![ليمون](assets/examples/sample-11-native.png) | ![الكولوسيوم](assets/examples/sample-12-native.png) |
+| sample-05-native | sample-06-native | sample-07-native | sample-08-native |
+| --- | --- | --- | --- |
+| ![sample-05-native](assets/examples/sample-05-native.png) | ![sample-05](assets/examples/sample-05.png) |
+| sample-06-native | sample-06 |
+| ![sample-06-native](assets/examples/sample-06-native.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07-native | sample-07 |
+| ![sample-07-native](assets/examples/sample-07-native.png) | ![sample-07](assets/examples/sample-07.png) |
+| sample-08-native | sample-08 |
+| ![sample-08-native](assets/examples/sample-08-native.png) | ![sample-08](assets/examples/sample-08.png) |
 
 ## الحالات المناسبة والمشكلات التي يحلها
 

@@ -10,25 +10,17 @@
 
 ## 샘플 작품
 
-새로 선택한 원본 사진 8장을 Panel 160의 기본 생성 스크립트로 각각 처리한 AI 샘플이며, 짧은 영문 문구를 사용했습니다. 이번 생성 결과를 크기 변경이나 재합성 없이 그대로 표시합니다. 이전 샘플의 크기만 바꾼 이미지가 아닙니다.
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-검사 결과: 가로 4장은 좌우 균등 분할입니다. 세로 4장은 위쪽 사진이 약 42.3%–48.8%를 차지해 엄격한 상하 50:50 조건을 충족하지 못했습니다. 일부 피사체와 배경 세부도 많으므로, 모든 스타일 조건을 통과한 예시가 아니라 실제 출력 결과로 공개합니다.
-
-### 가로 4장 · 1672×941 (약 16:9) · 왼쪽 사진 / 오른쪽 디자인
-
-| 새 | 사슴 |
-|---|---|
-| ![새](assets/examples/sample-05-native.png) | ![사슴](assets/examples/sample-06-native.png) |
-| 카누 | 만 |
-| ![카누](assets/examples/sample-07-native.png) | ![만](assets/examples/sample-08-native.png) |
-
-### 세로 4장 · 1086×1448 (3:4) · 위 사진 / 아래 디자인
-
-| 자전거 | 과일 |
-|---|---|
-| ![자전거](assets/examples/sample-09-native.png) | ![과일](assets/examples/sample-10-native.png) |
-| 레몬 | 콜로세움 |
-| ![레몬](assets/examples/sample-11-native.png) | ![콜로세움](assets/examples/sample-12-native.png) |
+| sample-05-native | sample-06-native | sample-07-native | sample-08-native |
+| --- | --- | --- | --- |
+| ![sample-05-native](assets/examples/sample-05-native.png) | ![sample-05](assets/examples/sample-05.png) |
+| sample-06-native | sample-06 |
+| ![sample-06-native](assets/examples/sample-06-native.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07-native | sample-07 |
+| ![sample-07-native](assets/examples/sample-07-native.png) | ![sample-07](assets/examples/sample-07.png) |
+| sample-08-native | sample-08 |
+| ![sample-08-native](assets/examples/sample-08-native.png) | ![sample-08](assets/examples/sample-08.png) |
 
 ## 잘 맞는 상황과 해결하는 문제
 

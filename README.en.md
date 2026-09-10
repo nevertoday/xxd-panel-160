@@ -10,25 +10,17 @@ Redirect an everyday photograph into a standalone art poster, preserving its rec
 
 ## Sample works
 
-These eight AI-generated samples use eight newly selected source photos, each processed through Panel 160's native generation script with short English copy. These are this run's original outputs, without resizing or recompositing—not resized versions of the previous samples.
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-Checked results: the four landscape images have an equal left/right split. In the four portraits, the upper photo occupies approximately 42.3%–48.8%, so they do not meet the strict 50:50 requirement. Some subjects and environmental details remain excessive; this gallery shows actual results, not full style acceptance.
-
-### 4 landscape samples · 1672×941 (approximately 16:9) · photo left / design right
-
-| Birds | Deer |
-|---|---|
-| ![Birds](assets/examples/sample-05-native.png) | ![Deer](assets/examples/sample-06-native.png) |
-| Canoe | Bay |
-| ![Canoe](assets/examples/sample-07-native.png) | ![Bay](assets/examples/sample-08-native.png) |
-
-### 4 portrait samples · 1086×1448 (3:4) · photo above / design below
-
-| Bicycle | Fruit |
-|---|---|
-| ![Bicycle](assets/examples/sample-09-native.png) | ![Fruit](assets/examples/sample-10-native.png) |
-| Lemons | Colosseum |
-| ![Lemons](assets/examples/sample-11-native.png) | ![Colosseum](assets/examples/sample-12-native.png) |
+| sample-05-native | sample-06-native | sample-07-native | sample-08-native |
+| --- | --- | --- | --- |
+| ![sample-05-native](assets/examples/sample-05-native.png) | ![sample-05](assets/examples/sample-05.png) |
+| sample-06-native | sample-06 |
+| ![sample-06-native](assets/examples/sample-06-native.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07-native | sample-07 |
+| ![sample-07-native](assets/examples/sample-07-native.png) | ![sample-07](assets/examples/sample-07.png) |
+| sample-08-native | sample-08 |
+| ![sample-08-native](assets/examples/sample-08-native.png) | ![sample-08](assets/examples/sample-08.png) |
 
 ## Best-fit situations and problems solved
 
