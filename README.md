@@ -10,25 +10,17 @@
 
 ## 样张展示
 
-以下 8 张 AI 样张使用 8 张新选的源照片，通过 Panel 160 原生生成脚本分别生成，配以简短英文文案。展示的是本轮原始输出，未缩放或重新拼接；不是此前样张的改尺寸版本。
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-实际检查：4 张横版左右等分；4 张竖版的上方照片约占 42.3%–48.8%，未达到严格上下 50:50。部分主体与环境细节仍偏多，因此本组用于展示实际效果，不代表全部通过风格验收。
-
-### 横版 4 张 · 1672×941（约 16:9）· 左照片 / 右设计
-
-| 鸟群 | 鹿 |
-|---|---|
-| ![鸟群](assets/examples/sample-05-native.png) | ![鹿](assets/examples/sample-06-native.png) |
-| 独木舟 | 海湾 |
-| ![独木舟](assets/examples/sample-07-native.png) | ![海湾](assets/examples/sample-08-native.png) |
-
-### 竖版 4 张 · 1086×1448（3:4）· 上照片 / 下设计
-
-| 自行车 | 水果 |
-|---|---|
-| ![自行车](assets/examples/sample-09-native.png) | ![水果](assets/examples/sample-10-native.png) |
-| 柠檬 | 罗马斗兽场 |
-| ![柠檬](assets/examples/sample-11-native.png) | ![罗马斗兽场](assets/examples/sample-12-native.png) |
+| sample-05-native | sample-06-native | sample-07-native | sample-08-native |
+| --- | --- | --- | --- |
+| ![sample-05-native](assets/examples/sample-05-native.png) | ![sample-05](assets/examples/sample-05.png) |
+| sample-06-native | sample-06 |
+| ![sample-06-native](assets/examples/sample-06-native.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07-native | sample-07 |
+| ![sample-07-native](assets/examples/sample-07-native.png) | ![sample-07](assets/examples/sample-07.png) |
+| sample-08-native | sample-08 |
+| ![sample-08-native](assets/examples/sample-08-native.png) | ![sample-08](assets/examples/sample-08.png) |
 
 ## 适用场景与解决的问题
 
