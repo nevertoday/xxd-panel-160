@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 160｜Expressive Pen-and-wash Illustration: redraws the most recognisable subject of a photo as an expressive pen-and-wash illustration — free, loose, sketch-like ink or fineliner lines with searching, repeated and unclosed strokes, then a few touches of transparent watercolour and simplified colour patches in 2–4 lively, brightened colours from the photo — one small, clear focal point with almost no background and very large whitespace, plus a few quiet words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-160 or asks for loose ink-and-watercolour, urban-sketch or pen-and-wash illustration from a photo.",
+  "short_description": "松线淡彩留白志：用松散的速写墨线和几笔透明水彩，把照片主角画成一小幅钢笔淡彩",
+  "zh-CN": {
+    "name": "松线淡彩留白志",
+    "tagline": "用松散的速写墨线和几笔透明水彩，把照片主角画成一小幅钢笔淡彩。",
+    "look": "照片里最好认的主体用自由、松散、带速写感的墨线或针管笔勾出来，保留寻找线、重复线和没闭合的笔画，局部略夸张。之后只在重点处点上几笔透明水彩和概括的色块，环境几乎不画。颜色从照片里取 2–4 种最有情绪的颜色，提亮去灰，主体颜色明确，其余迅速变淡。主体小，四周大片留白，留白里只有少量安静的字。",
+    "traits": [
+      "钢笔淡彩",
+      "松散墨线",
+      "透明水彩",
+      "单一焦点",
+      "超大留白"
+    ],
+    "good": [
+      "有姿态的人和动物：看书的人、伸懒腰的猫、遛弯的老人",
+      "适合速写的街头小景：一辆停着的单车、一家小店门口、一张长椅",
+      "想做成旅行速写、文章插画或明信片的照片"
+    ],
+    "poor": [
+      "需要工整精确线条的图：产品、机械、建筑立面",
+      "想把背景完整画满的大场景，这里只会留一个焦点",
+      "想要厚重写实、复杂明暗、卡通或 3D 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Expressive Pen-and-wash Illustration",
+    "tagline": "Sketches the star of your photo in loose ink lines with a few strokes of transparent watercolour.",
+    "look": "The most recognisable subject is drawn in free, loose, sketch-like ink or fineliner lines that keep their searching strokes, repeats and open ends, with a little exaggeration here and there. Then only a few touches of transparent watercolour and simple colour patches go on the key areas, and the surroundings are barely drawn. Two to four of the photo's most expressive colours are brightened; the subject's colour is clear and the rest fades quickly. The subject is small in a wide white space that holds only a few quiet words.",
+    "traits": [
+      "Pen and wash",
+      "Loose ink lines",
+      "Transparent watercolour",
+      "One focal point",
+      "Vast whitespace"
+    ],
+    "good": [
+      "People and animals with a clear pose: someone reading, a cat stretching, an elderly person out for a walk",
+      "Small street scenes that suit a sketch: a parked bicycle, a little shopfront, a bench",
+      "Photos you want as a travel sketch, article illustration or postcard"
+    ],
+    "poor": [
+      "Images that need neat, precise lines: products, machinery, building facades",
+      "Wide scenes you want fully painted edge to edge, since only one focus is kept",
+      "Requests for heavy realism, complex shading, cartoons or a 3D look"
+    ]
+  },
+  "ja": {
+    "name": "自由な線と淡彩の余白",
+    "tagline": "ゆるいスケッチの線と透明水彩の数筆で、写真の主役を小さなペン淡彩画にします。",
+    "look": "写真でいちばん目立つ主役を、自由でゆるいスケッチ風のインクやドローイングペンの線で描きます。探り線や重ね線、閉じない線を残し、ところどころ少し誇張します。そのあと要所にだけ透明水彩と大まかな色面を数筆置き、周囲はほとんど描きません。色は写真の中で気持ちが伝わる二〜四色を明るく整え、主役の色ははっきり、それ以外はすぐ淡くなります。主役は小さく、広い余白には静かな言葉が少しだけ入ります。",
+    "traits": [
+      "ペン淡彩",
+      "ゆるいインク線",
+      "透明水彩",
+      "ひとつの焦点",
+      "大きな余白"
+    ],
+    "good": [
+      "ポーズのある人や動物：本を読む人、伸びをする猫、散歩するお年寄り",
+      "スケッチ向きの街角：止めてある自転車、小さな店先、ベンチ",
+      "旅のスケッチ、記事の挿絵、ポストカードにしたい写真"
+    ],
+    "poor": [
+      "きちんと正確な線が必要な画像：製品、機械、建物の立面",
+      "背景まで描き込みたい広い場面（焦点ひとつしか残りません）",
+      "重厚な写実、複雑な陰影、アニメ調、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "느슨한 펜선과 담채 여백",
+    "tagline": "느슨한 스케치 먹선과 투명 수채 몇 붓으로 사진 속 주인공을 작은 펜 담채화로 그립니다.",
+    "look": "사진에서 가장 알아보기 쉬운 주인공을 자유롭고 느슨한 스케치풍 먹선이나 드로잉펜 선으로 그립니다. 더듬는 선, 겹친 선, 닫히지 않은 획을 그대로 두고 군데군데 조금 과장합니다. 그다음 중요한 곳에만 투명 수채와 단순한 색면을 몇 번 얹고, 주변은 거의 그리지 않습니다. 색은 사진에서 감정이 잘 드러나는 두세 가지, 많게는 네 가지를 밝게 다듬어, 주인공 색은 또렷하게 두고 나머지는 금방 옅어집니다. 주인공은 작고, 넓은 여백에는 조용한 글이 조금만 들어갑니다.",
+    "traits": [
+      "펜 담채",
+      "느슨한 먹선",
+      "투명 수채",
+      "하나의 초점",
+      "아주 넓은 여백"
+    ],
+    "good": [
+      "자세가 분명한 사람과 동물: 책 읽는 사람, 기지개 켜는 고양이, 산책하는 어르신",
+      "스케치하기 좋은 거리 풍경: 세워 둔 자전거, 작은 가게 앞, 벤치",
+      "여행 스케치, 글 삽화, 엽서로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "반듯하고 정확한 선이 필요한 이미지: 제품, 기계, 건물 입면",
+      "배경까지 꽉 채워 그리고 싶은 넓은 장면(초점 하나만 남습니다)",
+      "묵직한 사실 묘사, 복잡한 명암, 만화풍, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "خطوط حبر حرة وألوان مائية خفيفة",
+    "tagline": "يرسم بطل صورتك بخطوط حبر حرة كالاسكتش مع لمسات قليلة من الألوان المائية الشفافة.",
+    "look": "يُرسم أوضح عنصر في الصورة بخطوط حبر أو قلم دقيق حرة ومتراخية كالاسكتش، تحتفظ بخطوط البحث والتكرار والنهايات المفتوحة، مع مبالغة خفيفة هنا وهناك. ثم لا تُضاف إلا لمسات قليلة من الألوان المائية الشفافة وبقع لونية مبسّطة على المواضع المهمة، ويكاد المحيط لا يُرسم. تُفتَّح من الصورة لونان إلى أربعة من أكثر ألوانها تعبيراً، فيبقى لون العنصر واضحاً ويخفت الباقي سريعاً. العنصر صغير وسط فراغ أبيض واسع لا يحمل إلا كلمات هادئة قليلة.",
+    "traits": [
+      "حبر وألوان مائية",
+      "خطوط حبر حرة",
+      "ألوان مائية شفافة",
+      "نقطة تركيز واحدة",
+      "فراغ واسع جداً"
+    ],
+    "good": [
+      "أشخاص وحيوانات في وضعيات واضحة: شخص يقرأ، قطة تتمطّى، مسنّ يتمشى",
+      "مشاهد شارع صغيرة تناسب الاسكتش: دراجة متوقفة، واجهة متجر صغير، مقعد",
+      "صور تريدها اسكتش سفر أو رسماً لمقال أو بطاقة بريدية"
+    ],
+    "poor": [
+      "صور تحتاج إلى خطوط مرتبة ودقيقة: منتجات، آلات، واجهات مبانٍ",
+      "مشاهد واسعة تريد رسمها كاملة حتى الحواف، إذ لا تبقى إلا نقطة تركيز واحدة",
+      "طلب واقعية ثقيلة أو تظليل معقد أو رسوم كرتونية أو مظهر ثلاثي الأبعاد"
+    ]
+  }
+}
